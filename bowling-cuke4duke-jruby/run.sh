@@ -1,0 +1,1 @@
+CLASSPATH=./target/classes:$CLASSPATH cuke4duke
