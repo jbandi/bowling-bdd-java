@@ -1,4 +1,4 @@
-package bdd.examples.bowling;
+package bdd.examples.bowling.domain;
 
 public class BowlingGame {
   private int rolls[] = new int[21];

@@ -1,6 +1,6 @@
-package com.lunivore.gameoflife.scenarios.steps;
+package bdd.examples.bowling.acceptance;
 
-import bdd.examples.bowling.BowlingGame;
+import bdd.examples.bowling.domain.BowlingGame;
 import org.jbehave.scenario.annotations.Given;
 import org.jbehave.scenario.annotations.Then;
 import org.jbehave.scenario.annotations.When;

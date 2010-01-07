@@ -1,4 +1,4 @@
-package com.lunivore.gameoflife.scenarios;
+package bdd.examples.bowling.acceptance.scenarios;
 
 import org.jbehave.scenario.PropertyBasedConfiguration;
 import org.jbehave.scenario.JUnitScenario;
@@ -8,7 +8,8 @@ import org.jbehave.scenario.parser.UnderscoredCamelCaseResolver;
 import org.jbehave.scenario.reporters.PrintStreamScenarioReporter;
 import org.jbehave.scenario.reporters.ScenarioReporter;
 
-import com.lunivore.gameoflife.scenarios.steps.BowlingSteps;
+import bdd.examples.bowling.acceptance.BowlingSteps;
+
 
 public class ScoreCalculation extends JUnitScenario {
 
